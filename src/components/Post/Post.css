@@ -1,0 +1,29 @@
+.blog-post {
+    margin-bottom: 20px;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+  }
+  
+  .delete-button,
+  .archive-button {
+    background-color: #006b09;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .archive-button {
+    background-color: #a3ae9e;
+  }
+  
+  .delete-button {
+    background-color: #cf3a15;
+  }
+  

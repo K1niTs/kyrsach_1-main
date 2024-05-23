@@ -1,0 +1,17 @@
+.archive {
+    margin-left: 1px;
+    margin-right: 5px;
+  }
+  
+  .archive ol {
+    list-style-type: none;
+  }
+  
+  .archive ul {
+    list-style-type: square;
+  }
+  
+  .archive ol li {
+    margin-bottom: 5px;
+  }
+  

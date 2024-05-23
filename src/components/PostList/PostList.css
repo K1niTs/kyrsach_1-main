@@ -1,0 +1,12 @@
+.post-list {
+    margin-top: 20px;
+    margin-left: 40px;
+    flex-grow: 1;
+    max-width: calc(100% - 40px);
+  }
+  
+  .post-title h2 {
+    margin-bottom: 5px;
+    border-bottom: 2px solid #07b148;
+  }
+  
